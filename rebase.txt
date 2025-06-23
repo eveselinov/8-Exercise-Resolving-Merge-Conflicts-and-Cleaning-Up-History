@@ -1,1 +1,1 @@
-Master: ред за rebase
+Feature: ред за rebase
